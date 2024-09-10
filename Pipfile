@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+ipdb = "0.13.13"
+pytest = "7.4.4"
+
+[packages]
+
+[dev-packages]
+
+[requires]
+python_version = "3.8.16"

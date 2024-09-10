@@ -1,0 +1,22 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "039ec3d6ca3360be3b72a6e8b59bf9f0db7f4697b6653d56c50a75336d2a8280"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8.16"
+        },
+        "sources": [
+            {
+                "ipdb": "0.13.13",
+                "name": "pypi",
+                "pytest": "7.4.4",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {},
+    "develop": {}
+}
